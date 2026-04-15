@@ -77,6 +77,12 @@ Nous développons les expériences digitales de nos marques : **storefronts e-co
 
 ---
 
+<p align="center">
+  <img src="https://github.com/cospal-devs/.github/blob/main/public/banner.png" alt="Cospal" width="100%" />
+</p>
+
+---
+
 <div align="center">
 
 **Cospal** © 2024 – présent
