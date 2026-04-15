@@ -30,11 +30,7 @@
 
 ---
 
-
-
-
-
-## 💻 Tech Stack
+## Tech Stack :
 
 Notre équipe technique construit les plateformes e-commerce et les outils internes qui portent nos marques vers le digital.
 
@@ -46,10 +42,24 @@ Notre équipe technique construit les plateformes e-commerce et les outils inter
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 
 </div>
+
+---
+
+
+
+
+
+
+
+
+
+
 
 ## 🎯 Notre Mission Tech
 
