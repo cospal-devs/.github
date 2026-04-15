@@ -1,13 +1,6 @@
-<table width="100%">
-    <tr>
-        <td width="99%">
-            <h1>Cospal</h1>
-        </td>
-        <td width="1%" align="right">
-            <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px">
-        </td>
-    </tr>
-</table>
+<img align="right" src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px">
+
+# Cospal
 
 <p align="center">
   <img src="https://github.com/cospal-devs/.github/blob/main/public/cover.png" alt="Cospal" width="100%" />
