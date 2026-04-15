@@ -69,20 +69,11 @@ Nous développons les expériences digitales de nos marques : **storefronts e-co
 
 ---
 
+## Nous contacter :
 
-
-
-
-
-
-
-
-
-## 📫 Nous Contacter
-
-- **Email** — [it@cospal.fr](mailto:it@cospal.fr)
+- **Adresse e-mail** — [it@cospal.fr](mailto:it@cospal.fr)
 - **LinkedIn** — [linkedin.com/company/cospal](https://fr.linkedin.com/company/cospal)
-- **Siège** — Paris, France
+- **Siège social** — Paris, France
 
 ---
 
