@@ -9,8 +9,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cospal-00AFD7?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/company/cospal)
-[![Email](https://img.shields.io/badge/Contact-it@cospal.fr-00B373?style=for-the-badge&logo=gmail&logoColor=white)](mailto:it@cospal.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cospal-00AFD7?style=for-the-badge)](https://fr.linkedin.com/company/cospal)
+[![Email](https://img.shields.io/badge/Contact-it@cospal.fr-00B373?style=for-the-badge)](mailto:it@cospal.fr)
 [![Location](https://img.shields.io/badge/📍_Paris-France-FFCD00?style=for-the-badge)]()
 
 ---
