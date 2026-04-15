@@ -1,6 +1,7 @@
-<img align="right" src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px">
-
-# Cospal - Groupe cosmétique français
+<h1>
+    Cospal - Groupe cosmétique français 
+    <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px">
+</h1>
 
 <p align="center">
   <img src="https://github.com/cospal-devs/.github/blob/main/public/cover.png" alt="Cospal" width="100%" />
