@@ -1,5 +1,5 @@
 <h1>
-    Cospal - Groupe cosmétique français 
+    Cospal - Groupe cosmétique français    
     <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px">
 </h1>
 
