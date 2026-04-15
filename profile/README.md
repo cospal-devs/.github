@@ -3,6 +3,8 @@
     <img src="https://github.com/cospal-devs/.github/blob/main/public/unicorn.gif" height="30px" width="30px">
 </h1>
 
+*Fondé en 2024, Cospal est un groupe familial français spécialisé dans l'acquisition et le développement de marques emblématiques de la beauté et du bien-être.*
+
 <p align="center">
   <img src="https://github.com/cospal-devs/.github/blob/main/public/cover.png" alt="Cospal" width="100%" />
 </p>
@@ -18,7 +20,7 @@
 <div>
 ---
 
-*Fondé en 2024, Cospal est un groupe familial français spécialisé dans l'acquisition et le développement de marques emblématiques de la beauté et du bien-être.*
+
 
 </div>
 
