@@ -1,10 +1,15 @@
 <p align="center">
+    <h1 align="center">
+        Cospal 
+        <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px">
+    </h1>
+
   <img src="https://github.com/cospal-devs/.github/blob/main/public/cover.png" alt="Cospal" width="100%" />
 </p>
 
 <div align="center">
 
-# 🌿 Cospal
+# 🌿 
 
 **Groupe cosmétique français — Beauté, Bien-être & Innovation**
 
