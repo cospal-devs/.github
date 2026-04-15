@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/cover.png" alt="Cospal" width="100%" />
+  <img src="https://github.com/cospal-devs/.github/blob/main/public/cover.png" alt="Cospal" width="100%" />
 </p>
 
 <div align="center">
