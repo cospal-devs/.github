@@ -9,13 +9,9 @@
 
 <div align="center">
 
-# 🌿 
-
-**Groupe cosmétique français — Beauté, Bien-être & Innovation**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cospal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/company/cospal)
 [![Email](https://img.shields.io/badge/Contact-it@cospal.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:it@cospal.fr)
-[![Location](https://img.shields.io/badge/📍_Paris-France-blue?style=for-the-badge)]()
+[![Location](https://img.shields.io/badge/📍_Paris-France-yellow?style=for-the-badge)]()
 
 ---
 
