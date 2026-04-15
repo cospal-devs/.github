@@ -61,7 +61,11 @@ Notre équipe technique construit les plateformes e-commerce et les outils inter
 
 </div>
 
+---
 
+## Notre mission :
+
+Nous développons les expériences digitales de nos marques : **storefronts e-commerce**, **intégrations marketplace**, **outils internes** et **infrastructure cloud** — avec une exigence de performance, d'accessibilité et de qualité à la hauteur de nos produits.
 
 ---
 
@@ -73,11 +77,6 @@ Notre équipe technique construit les plateformes e-commerce et les outils inter
 
 
 
-
-
-## 🎯 Notre Mission Tech
-
-Nous développons les expériences digitales de nos marques : storefronts e-commerce, intégrations marketplace, outils internes et infrastructure cloud — avec une exigence de performance, d'accessibilité et de qualité à la hauteur de nos produits.
 
 ## 📫 Nous Contacter
 
