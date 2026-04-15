@@ -21,14 +21,18 @@
 
 ---
 
----
-
-## 🏛️ Nos Marques
+## Nos marques :
 
 | Marque | Domaine | Héritage |
 |:---|:---|:---|
 | **Decléor** | Aromathérapie & soins visage | Fondée dans les années 70, pionnière de l'aromathérapie en cosmétique |
 | **Saint-Gervais Mont Blanc** | Dermocosmétique & eau thermale | Inspirée des Alpes françaises, plus de 100 000 visiteurs par an |
+
+---
+
+
+
+
 
 ## 💻 Tech Stack
 
