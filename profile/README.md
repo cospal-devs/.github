@@ -7,17 +7,15 @@
   <img src="https://github.com/cospal-devs/.github/blob/main/public/cover.png" alt="Cospal" width="100%" />
 </p>
 
+<p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cospal-00AFD7?style=for-the-badge)](https://fr.linkedin.com/company/cospal)
+[![Email](https://img.shields.io/badge/Contact-it@cospal.fr-00B373?style=for-the-badge)](mailto:it@cospal.fr)
+[![Location](https://img.shields.io/badge/Paris-France-FFCD00?style=for-the-badge)]()
+
+</p>
+
 <div>
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cospal-00AFD7?style=for-the-badge)](https://fr.linkedin.com/company/cospal)
-    [![Email](https://img.shields.io/badge/Contact-it@cospal.fr-00B373?style=for-the-badge)](mailto:it@cospal.fr)
-    [![Location](https://img.shields.io/badge/Paris-France-FFCD00?style=for-the-badge)]()
-</div>
-
-
-<div align="center">
-
-
-
 ---
 
 *Fondé en 2024, Cospal est un groupe familial français spécialisé dans l'acquisition et le développement de marques emblématiques de la beauté et du bien-être.*
